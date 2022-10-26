@@ -1,0 +1,28 @@
+/* style.css */
+
+h1  {
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.test {
+    background-color:bisque;
+    color: navy;
+
+}
+
+.intro  {
+    background-color: lemonchiffon;
+
+}
+
+.credits    {
+    color: gray;
+
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
